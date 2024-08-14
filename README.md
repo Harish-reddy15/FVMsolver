@@ -1,5 +1,6 @@
 # FVMsolver
 Run the "Transient_script" with all the necessary files located in the same directory.
+You can edit the velocity and other parameters in the system parameters file.
 
 ## Overview:
 
